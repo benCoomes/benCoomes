@@ -1,8 +1,5 @@
 # Ben Coomes
-Hi there! I am a software engineer @GitHub. I am interested in building highly reliable and available distributed systems.
-
-## What I am working on now
-* Learning about life on the GitHub authorization team
+Hi there! I am a software engineer building GitHub on GitHub.
 
 ## What I do for fun
 * :runner: [Running and swimming](https://www.strava.com/athletes/14916005) (not at the same time)
